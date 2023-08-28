@@ -17,5 +17,5 @@ function calculateGrade(percentage) {
 	}
 	
 }
-// const percentage = parseInt(prompt("Enter Percentage."));
-// alert(calculateGrade(percentage));
+const percentage = parseInt(prompt("Enter Percentage."));
+alert(calculateGrade(percentage));
